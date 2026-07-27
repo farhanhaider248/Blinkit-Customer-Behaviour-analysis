@@ -1,0 +1,501 @@
+customer_id,customer_name,age,gender,city,subscription,discount_applied,item_purchased,category,purchase_amount,payment_method,purchase_date,age_group,purchase_month,purchase_day,purchase_year,discount_flag,revenue_segment
+1001,Sara,50,Male,Gurugram,No,Yes,Face Wash,Beauty,2936,Net Banking,2025-07-19,46-60,July,Saturday,2025,1,low
+1002,Vikas,24,Female,Delhi,No,No,Keyboard,Electronics,63049,Net Banking,2025-03-23,18-25,March,Sunday,2025,0,premium
+1003,Rohan,50,Female,Delhi,Yes,No,Watch,Fashion,17778,Net Banking,2025-03-19,46-60,March,Wednesday,2025,0,medium
+1004,Ali,42,Male,Noida,Yes,No,Tea,Groceries,16859,Card,2025-10-30,36-45,October,Thursday,2025,0,medium
+1005,Karan,56,Male,Meerut,Yes,Yes,Keyboard,Electronics,55425,Upi,2025-12-04,46-60,December,Thursday,2025,1,premium
+1006,Farhan,22,Male,Meerut,Yes,No,Mobile,Electronics,41387,Upi,2025-06-04,18-25,June,Wednesday,2025,0,high
+1007,Aman,48,Male,Gurugram,No,No,Watch,Fashion,22068,Card,2025-03-11,46-60,March,Tuesday,2025,0,medium
+1008,Sara,37,Male,Delhi,No,Yes,Shampoo,Beauty,3353,Card,2025-07-03,36-45,July,Thursday,2025,1,low
+1009,Karan,48,Male,Gurugram,No,Yes,Milk,Groceries,26084,Cash,2025-03-13,46-60,March,Thursday,2025,1,medium
+1010,Farhan,21,Female,Noida,Yes,Yes,Watch,Fashion,52833,Net Banking,2025-07-13,18-25,July,Sunday,2025,1,premium
+1011,Anjali,28,Female,Noida,Yes,No,Face Wash,Beauty,6893,Upi,2025-07-09,26-35,July,Wednesday,2025,0,low
+1012,Ali,51,Male,Noida,Yes,Yes,Football,Sports,11652,Card,2025-09-03,46-60,September,Wednesday,2025,1,medium
+1013,Rohan,42,Female,Meerut,Yes,No,Keyboard,Electronics,54499,Upi,2025-10-21,36-45,October,Tuesday,2025,0,premium
+1014,Neha,56,Male,Delhi,Yes,No,Shampoo,Beauty,20745,Cash,2025-03-11,46-60,March,Tuesday,2025,0,medium
+1015,Neha,24,Female,Meerut,Yes,Yes,Tea,Groceries,33378,Card,2025-04-26,18-25,April,Saturday,2025,1,high
+1016,Neha,38,Female,Delhi,Yes,No,T-Shirt,Fashion,61024,Card,2025-09-15,36-45,September,Monday,2025,0,premium
+1017,Karan,56,Male,Lucknow,Yes,No,Keyboard,Electronics,66606,Card,2025-12-19,46-60,December,Friday,2025,0,premium
+1018,Anjali,55,Female,Lucknow,Yes,No,T-Shirt,Fashion,39428,Cash,2025-07-21,46-60,July,Monday,2025,0,high
+1019,Aman,49,Female,Lucknow,No,Yes,Football,Sports,57640,Upi,2025-10-09,46-60,October,Thursday,2025,1,premium
+1020,Zoya,42,Male,Gurugram,Yes,Yes,T-Shirt,Fashion,55403,Card,2025-12-04,36-45,December,Thursday,2025,1,premium
+1021,Priya,58,Female,Lucknow,Yes,Yes,Football,Sports,68468,Card,2025-03-07,46-60,March,Friday,2025,1,premium
+1022,Priya,47,Female,Gurugram,No,No,Rice,Groceries,64021,Cash,2025-04-24,46-60,April,Thursday,2025,0,premium
+1023,Aman,20,Male,Lucknow,No,No,Laptop,Electronics,20607,Net Banking,2025-01-28,18-25,January,Tuesday,2025,0,medium
+1024,Karan,33,Female,Delhi,No,Yes,Cricket Bat,Sports,59734,Cash,2025-12-08,26-35,December,Monday,2025,1,premium
+1025,Anjali,52,Male,Lucknow,No,Yes,Watch,Fashion,5176,Cash,2025-01-04,46-60,January,Saturday,2025,1,low
+1026,Rahul,40,Male,Lucknow,Yes,No,Face Wash,Beauty,58029,Card,2025-09-22,36-45,September,Monday,2025,0,premium
+1027,Rohan,55,Male,Delhi,No,No,Face Wash,Beauty,24086,Net Banking,2025-12-20,46-60,December,Saturday,2025,0,medium
+1028,Aman,43,Female,Delhi,Yes,No,Rice,Groceries,16590,Upi,2025-01-20,36-45,January,Monday,2025,0,medium
+1029,Neha,19,Female,Noida,No,No,Mobile,Electronics,245,Upi,2025-07-17,18-25,July,Thursday,2025,0,low
+1030,Sara,50,Female,Delhi,No,No,Cricket Bat,Sports,38684,Cash,2025-05-07,46-60,May,Wednesday,2025,0,high
+1031,Aman,21,Male,Gurugram,No,No,Face Wash,Beauty,60613,Cash,2025-01-24,18-25,January,Friday,2025,0,premium
+1032,Neha,34,Male,Meerut,No,Yes,Keyboard,Electronics,13439,Cash,2025-12-16,26-35,December,Tuesday,2025,1,medium
+1033,Vikas,48,Female,Lucknow,No,Yes,Face Wash,Beauty,46610,Net Banking,2025-01-22,46-60,January,Wednesday,2025,1,high
+1034,Ali,23,Male,Meerut,Yes,No,Mobile,Electronics,47824,Cash,2025-06-13,18-25,June,Friday,2025,0,high
+1035,Sara,35,Male,Lucknow,Yes,No,Shoes,Fashion,15021,Upi,2025-12-20,26-35,December,Saturday,2025,0,medium
+1036,Karan,24,Male,Lucknow,No,Yes,Shampoo,Beauty,65196,Cash,2025-07-28,18-25,July,Monday,2025,1,premium
+1037,Rohan,22,Male,Lucknow,No,No,Rice,Groceries,26154,Net Banking,2025-12-02,18-25,December,Tuesday,2025,0,medium
+1038,Farhan,24,Female,Meerut,Yes,No,Rice,Groceries,44214,Cash,2025-08-13,18-25,August,Wednesday,2025,0,high
+1039,Farhan,40,Male,Meerut,No,No,Unknown,Fashion,59824,Upi,2025-10-16,36-45,October,Thursday,2025,0,premium
+1040,Zoya,52,Male,Gurugram,Yes,No,Shoes,Fashion,9464,Cash,2025-05-23,46-60,May,Friday,2025,0,low
+1041,Farhan,53,Male,Gurugram,Yes,No,Laptop,Electronics,56934,Card,2025-06-08,46-60,June,Sunday,2025,0,premium
+1042,Zoya,27,Female,Delhi,Yes,Yes,Mobile,Electronics,32750,Card,2025-10-25,26-35,October,Saturday,2025,1,high
+1043,Anjali,47,Male,Meerut,Yes,No,Cricket Bat,Sports,35394,Net Banking,2025-04-05,46-60,April,Saturday,2025,0,high
+1044,Zoya,39,Male,Lucknow,No,Yes,Mouse,Electronics,23714,Upi,2025-02-21,36-45,February,Friday,2025,1,medium
+1045,Anjali,30,Male,Delhi,Yes,No,Face Wash,Beauty,60829,Net Banking,2025-01-11,26-35,January,Saturday,2025,0,premium
+1046,Sara,44,Male,Meerut,Yes,No,Watch,Fashion,866,Cash,2025-08-04,36-45,August,Monday,2025,0,low
+1047,Zoya,52,Male,Delhi,No,Yes,Mouse,Electronics,32762,Net Banking,2025-03-04,46-60,March,Tuesday,2025,1,high
+1048,Sara,20,Female,Noida,Yes,No,Unknown,Fashion,1731,Upi,2025-04-17,18-25,April,Thursday,2025,0,low
+1049,Rohan,54,Female,Lucknow,Yes,No,T-Shirt,Fashion,52828,Cash,2025-01-23,46-60,January,Thursday,2025,0,premium
+1050,Anjali,45,Male,Delhi,No,Yes,Watch,Fashion,30376,Upi,2025-10-30,36-45,October,Thursday,2025,1,high
+1051,Rohan,33,Male,Lucknow,No,Yes,Rice,Groceries,49815,Net Banking,2025-12-26,26-35,December,Friday,2025,1,high
+1052,Neha,22,Female,Meerut,Yes,Yes,Laptop,Electronics,66173,Net Banking,2025-02-08,18-25,February,Saturday,2025,1,premium
+1053,Karan,33,Female,Noida,Yes,No,Football,Sports,16017,Card,2025-09-15,26-35,September,Monday,2025,0,medium
+1054,Anjali,23,Female,Gurugram,No,Yes,Laptop,Electronics,16304,Cash,2025-08-29,18-25,August,Friday,2025,1,medium
+1055,Zoya,47,Male,Lucknow,Yes,No,Laptop,Electronics,44889,Upi,2025-06-23,46-60,June,Monday,2025,0,high
+1056,Neha,38,Female,Meerut,No,No,T-Shirt,Fashion,23722,Net Banking,2025-02-01,36-45,February,Saturday,2025,0,medium
+1057,Ali,18,Male,Delhi,Yes,No,Cricket Bat,Sports,24156,Cash,2025-02-08,18-25,February,Saturday,2025,0,medium
+1058,Rohan,33,Female,Delhi,No,No,Watch,Fashion,65643,Net Banking,2025-04-10,26-35,April,Thursday,2025,0,premium
+1059,Priya,31,Male,Meerut,Yes,Yes,T-Shirt,Fashion,32999,Net Banking,2025-05-31,26-35,May,Saturday,2025,1,high
+1060,Vikas,50,Female,Noida,Yes,No,T-Shirt,Fashion,10996,Card,2025-02-11,46-60,February,Tuesday,2025,0,medium
+1061,Karan,26,Female,Noida,Yes,No,Milk,Groceries,346,Upi,2025-09-05,26-35,September,Friday,2025,0,low
+1062,Vikas,27,Female,Gurugram,Yes,Yes,Mobile,Electronics,64333,Upi,2025-10-19,26-35,October,Sunday,2025,1,premium
+1063,Ali,46,Female,Meerut,Yes,No,Shampoo,Beauty,52418,Upi,2025-01-17,46-60,January,Friday,2025,0,premium
+1064,Rohan,41,Female,Meerut,No,No,Mouse,Electronics,32837,Cash,2025-08-26,36-45,August,Tuesday,2025,0,high
+1065,Karan,46,Female,Delhi,Yes,Yes,Football,Sports,53315,Cash,2025-04-22,46-60,April,Tuesday,2025,1,premium
+1066,Rahul,39,Male,Delhi,No,No,Shoes,Fashion,22644,Cash,2025-05-24,36-45,May,Saturday,2025,0,medium
+1067,Rohan,53,Male,Gurugram,No,No,Cricket Bat,Sports,40101,Upi,2025-06-30,46-60,June,Monday,2025,0,high
+1068,Sara,22,Female,Delhi,Yes,No,Watch,Fashion,54471,Cash,2025-04-04,18-25,April,Friday,2025,0,premium
+1069,Vikas,44,Female,Lucknow,No,No,Tea,Groceries,57906,Upi,2025-06-12,36-45,June,Thursday,2025,0,premium
+1070,Zoya,21,Female,Noida,No,No,Watch,Fashion,32133,Card,2025-05-09,18-25,May,Friday,2025,0,high
+1071,Rahul,19,Female,Delhi,No,Yes,Mobile,Electronics,38116,Upi,2025-03-17,18-25,March,Monday,2025,1,high
+1072,Vikas,55,Female,Gurugram,Yes,No,Face Wash,Beauty,27608,Cash,2025-07-15,46-60,July,Tuesday,2025,0,medium
+1073,Rahul,42,Male,Meerut,Yes,Yes,Laptop,Electronics,52609,Card,2025-09-06,36-45,September,Saturday,2025,1,premium
+1074,Aman,21,Male,Delhi,Yes,No,Laptop,Electronics,23075,Cash,2025-02-18,18-25,February,Tuesday,2025,0,medium
+1075,Rahul,32,Female,Meerut,No,No,Laptop,Electronics,29305,Net Banking,2025-07-22,26-35,July,Tuesday,2025,0,medium
+1076,Anjali,18,Male,Lucknow,Yes,No,Cricket Bat,Sports,67748,Upi,2025-11-29,18-25,November,Saturday,2025,0,premium
+1077,Neha,23,Female,Lucknow,No,No,Face Wash,Beauty,7848,Card,2025-03-08,18-25,March,Saturday,2025,0,low
+1078,Sara,51,Female,Meerut,Yes,No,Milk,Groceries,27876,Net Banking,2025-10-13,46-60,October,Monday,2025,0,medium
+1079,Farhan,40,Male,Noida,Yes,No,Tea,Groceries,46896,Cash,2025-05-29,36-45,May,Thursday,2025,0,high
+1080,Karan,42,Male,Noida,No,Yes,Keyboard,Electronics,29682,Cash,2025-06-17,36-45,June,Tuesday,2025,1,medium
+1081,Ali,31,Male,Lucknow,Yes,Yes,Shampoo,Beauty,13502,Upi,2025-12-09,26-35,December,Tuesday,2025,1,medium
+1082,Rohan,59,Male,Lucknow,No,No,Cricket Bat,Sports,57111,Net Banking,2025-11-21,46-60,November,Friday,2025,0,premium
+1083,Rahul,50,Female,Delhi,Yes,Yes,Milk,Groceries,61284,Upi,2025-08-29,46-60,August,Friday,2025,1,premium
+1084,Rahul,20,Female,Delhi,Yes,Yes,Tea,Groceries,32661,Net Banking,2025-03-06,18-25,March,Thursday,2025,1,high
+1085,Ali,59,Female,Meerut,Yes,No,Milk,Groceries,1340,Cash,2025-05-25,46-60,May,Sunday,2025,0,low
+1086,Vikas,29,Female,Lucknow,Yes,Yes,Laptop,Electronics,54382,Upi,2025-06-07,26-35,June,Saturday,2025,1,premium
+1087,Rohan,25,Male,Gurugram,Yes,Yes,Rice,Groceries,7250,Card,2025-07-30,18-25,July,Wednesday,2025,1,low
+1088,Farhan,50,Female,Lucknow,Yes,No,Cricket Bat,Sports,51915,Net Banking,2025-08-17,46-60,August,Sunday,2025,0,premium
+1089,Farhan,41,Female,Noida,No,No,Watch,Fashion,963,Net Banking,2025-02-20,36-45,February,Thursday,2025,0,low
+1090,Farhan,36,Female,Meerut,Yes,No,Face Wash,Beauty,19316,Net Banking,2025-10-08,36-45,October,Wednesday,2025,0,medium
+1091,Sara,54,Female,Lucknow,No,Yes,Shoes,Fashion,15674,Net Banking,2025-12-26,46-60,December,Friday,2025,1,medium
+1092,Karan,24,Female,Meerut,Yes,Yes,Milk,Groceries,43080,Cash,2025-05-06,18-25,May,Tuesday,2025,1,high
+1093,Rohan,21,Female,Noida,Yes,No,Face Wash,Beauty,2934,Upi,2025-04-25,18-25,April,Friday,2025,0,low
+1094,Sara,59,Female,Noida,Yes,No,Watch,Fashion,46917,Net Banking,2025-07-05,46-60,July,Saturday,2025,0,high
+1095,Anjali,51,Male,Delhi,No,No,Football,Sports,6781,Upi,2025-12-19,46-60,December,Friday,2025,0,low
+1096,Rohan,21,Male,Lucknow,No,No,Watch,Fashion,2926,Cash,2025-05-01,18-25,May,Thursday,2025,0,low
+1097,Sara,37,Female,Delhi,Yes,No,Face Wash,Beauty,30568,Card,2025-05-07,36-45,May,Wednesday,2025,0,high
+1098,Vikas,36,Male,Noida,No,No,Shoes,Fashion,20975,Cash,2025-05-01,36-45,May,Thursday,2025,0,medium
+1099,Ali,38,Female,Gurugram,Yes,No,Rice,Groceries,64753,Card,2025-08-18,36-45,August,Monday,2025,0,premium
+1100,Rahul,53,Female,Meerut,No,Yes,Shoes,Fashion,33803,Cash,2025-12-28,46-60,December,Sunday,2025,1,high
+1101,Farhan,54,Female,Gurugram,Yes,No,Tea,Groceries,67338,Cash,2025-10-22,46-60,October,Wednesday,2025,0,premium
+1102,Rahul,48,Female,Lucknow,No,No,Face Wash,Beauty,28759,Cash,2025-10-19,46-60,October,Sunday,2025,0,medium
+1103,Anjali,18,Male,Noida,Yes,No,Milk,Groceries,69678,Upi,2025-09-28,18-25,September,Sunday,2025,0,premium
+1104,Rohan,43,Female,Meerut,No,No,Cricket Bat,Sports,58916,Cash,2025-07-04,36-45,July,Friday,2025,0,premium
+1105,Rahul,47,Male,Lucknow,Yes,No,Football,Sports,28390,Net Banking,2025-06-25,46-60,June,Wednesday,2025,0,medium
+1106,Zoya,21,Female,Lucknow,Yes,Yes,Unknown,Beauty,48591,Cash,2025-02-15,18-25,February,Saturday,2025,1,high
+1107,Rahul,22,Female,Noida,Yes,No,Shampoo,Beauty,42429,Net Banking,2025-09-15,18-25,September,Monday,2025,0,high
+1108,Vikas,31,Male,Meerut,No,No,Football,Sports,27956,Card,2025-05-25,26-35,May,Sunday,2025,0,medium
+1109,Karan,42,Female,Gurugram,No,No,Mouse,Electronics,64218,Upi,2025-10-06,36-45,October,Monday,2025,0,premium
+1110,Zoya,27,Male,Delhi,No,Yes,Keyboard,Electronics,39798,Cash,2025-12-25,26-35,December,Thursday,2025,1,high
+1111,Neha,26,Male,Lucknow,Yes,Yes,Milk,Groceries,51082,Cash,2025-05-29,26-35,May,Thursday,2025,1,premium
+1112,Neha,58,Female,Noida,No,No,Shampoo,Beauty,57262,Upi,2025-01-06,46-60,January,Monday,2025,0,premium
+1113,Neha,53,Female,Noida,Yes,No,Mouse,Electronics,35373,Net Banking,2025-01-13,46-60,January,Monday,2025,0,high
+1114,Farhan,57,Male,Gurugram,Yes,No,Cricket Bat,Sports,69709,Upi,2025-06-02,46-60,June,Monday,2025,0,premium
+1115,Neha,18,Female,Gurugram,Yes,Yes,Shampoo,Beauty,67733,Card,2025-09-13,18-25,September,Saturday,2025,1,premium
+1116,Farhan,43,Female,Delhi,No,No,T-Shirt,Fashion,67299,Cash,2025-10-14,36-45,October,Tuesday,2025,0,premium
+1117,Priya,48,Female,Meerut,Yes,No,Tea,Groceries,43072,Card,2025-03-04,46-60,March,Tuesday,2025,0,high
+1118,Rohan,37,Male,Noida,No,Yes,Mouse,Electronics,9224,Cash,2025-08-18,36-45,August,Monday,2025,1,low
+1119,Neha,36,Male,Delhi,Yes,No,Shoes,Fashion,49051,Card,2025-02-06,36-45,February,Thursday,2025,0,high
+1120,Karan,60,Female,Noida,No,No,Tea,Groceries,44370,Upi,2025-04-29,46-60,April,Tuesday,2025,0,high
+1121,Ali,18,Female,Delhi,No,No,Watch,Fashion,32641,Card,2025-09-01,18-25,September,Monday,2025,0,high
+1122,Zoya,32,Female,Noida,No,No,Unknown,Beauty,25380,Net Banking,2025-08-01,26-35,August,Friday,2025,0,medium
+1123,Vikas,46,Male,Lucknow,Yes,Yes,Face Wash,Beauty,31613,Card,2025-07-20,46-60,July,Sunday,2025,1,high
+1124,Anjali,20,Male,Delhi,No,No,Face Wash,Beauty,13354,Net Banking,2025-07-08,18-25,July,Tuesday,2025,0,medium
+1125,Neha,58,Female,Gurugram,Yes,No,Mouse,Electronics,36857,Upi,2025-08-25,46-60,August,Monday,2025,0,high
+1126,Zoya,50,Male,Gurugram,Yes,No,Keyboard,Electronics,68901,Upi,2025-07-02,46-60,July,Wednesday,2025,0,premium
+1127,Anjali,55,Male,Lucknow,Yes,Yes,Tea,Groceries,58415,Upi,2025-09-23,46-60,September,Tuesday,2025,1,premium
+1128,Ali,34,Male,Lucknow,No,Yes,Watch,Fashion,15022,Upi,2025-09-18,26-35,September,Thursday,2025,1,medium
+1129,Rohan,34,Female,Lucknow,No,No,Football,Sports,18105,Upi,2025-08-03,26-35,August,Sunday,2025,0,medium
+1130,Sara,48,Female,Meerut,No,No,Cricket Bat,Sports,39964,Net Banking,2025-11-06,46-60,November,Thursday,2025,0,high
+1131,Ali,22,Female,Lucknow,Yes,No,Unknown,Sports,1253,Upi,2025-12-02,18-25,December,Tuesday,2025,0,low
+1132,Sara,34,Female,Delhi,Yes,Yes,Face Wash,Beauty,54850,Net Banking,2025-01-22,26-35,January,Wednesday,2025,1,premium
+1133,Aman,25,Male,Noida,No,Yes,Mobile,Electronics,25647,Upi,2025-11-13,18-25,November,Thursday,2025,1,medium
+1134,Sara,57,Female,Gurugram,No,Yes,Football,Sports,9343,Cash,2025-01-20,46-60,January,Monday,2025,1,low
+1135,Karan,40,Female,Lucknow,Yes,No,Watch,Fashion,63780,Card,2025-09-10,36-45,September,Wednesday,2025,0,premium
+1136,Farhan,30,Male,Delhi,Yes,No,Watch,Fashion,63552,Net Banking,2025-04-16,26-35,April,Wednesday,2025,0,premium
+1137,Anjali,33,Female,Meerut,No,No,Laptop,Electronics,40853,Card,2025-01-29,26-35,January,Wednesday,2025,0,high
+1138,Rahul,45,Male,Meerut,Yes,No,Cricket Bat,Sports,31680,Card,2025-09-08,36-45,September,Monday,2025,0,high
+1139,Aman,41,Female,Lucknow,Yes,No,Football,Sports,31325,Cash,2025-03-13,36-45,March,Thursday,2025,0,high
+1140,Rohan,39,Male,Lucknow,Yes,No,Mouse,Electronics,22462,Upi,2025-02-28,36-45,February,Friday,2025,0,medium
+1141,Vikas,60,Female,Lucknow,Yes,Yes,Shampoo,Beauty,222,Card,2025-07-05,46-60,July,Saturday,2025,1,low
+1142,Ali,22,Female,Noida,Yes,Yes,Milk,Groceries,7241,Card,2025-06-19,18-25,June,Thursday,2025,1,low
+1143,Rohan,33,Male,Lucknow,Yes,No,Shoes,Fashion,24109,Card,2025-04-12,26-35,April,Saturday,2025,0,medium
+1144,Rohan,24,Male,Meerut,Yes,No,Milk,Groceries,15526,Net Banking,2025-08-22,18-25,August,Friday,2025,0,medium
+1145,Priya,26,Male,Gurugram,No,No,Laptop,Electronics,65451,Upi,2025-12-15,26-35,December,Monday,2025,0,premium
+1146,Farhan,48,Female,Gurugram,No,Yes,Face Wash,Beauty,48341,Card,2025-02-11,46-60,February,Tuesday,2025,1,high
+1147,Zoya,54,Male,Gurugram,No,No,Milk,Groceries,18143,Card,2025-10-28,46-60,October,Tuesday,2025,0,medium
+1148,Ali,31,Male,Delhi,No,No,Rice,Groceries,43767,Upi,2025-03-06,26-35,March,Thursday,2025,0,high
+1149,Ali,38,Male,Meerut,Yes,No,Laptop,Electronics,4107,Card,2025-11-08,36-45,November,Saturday,2025,0,low
+1150,Sara,23,Male,Meerut,Yes,No,Laptop,Electronics,18778,Net Banking,2025-08-11,18-25,August,Monday,2025,0,medium
+1151,Sara,35,Female,Gurugram,No,Yes,Rice,Groceries,12176,Cash,2025-01-05,26-35,January,Sunday,2025,1,medium
+1152,Sara,49,Female,Gurugram,Yes,No,Shoes,Fashion,56171,Net Banking,2025-08-31,46-60,August,Sunday,2025,0,premium
+1153,Ali,60,Male,Meerut,No,No,Unknown,Electronics,31032,Card,2025-06-08,46-60,June,Sunday,2025,0,high
+1154,Rohan,59,Female,Noida,Yes,No,Unknown,Fashion,11164,Upi,2025-12-19,46-60,December,Friday,2025,0,medium
+1155,Sara,20,Female,Noida,No,No,Face Wash,Beauty,30319,Cash,2025-03-09,18-25,March,Sunday,2025,0,high
+1156,Karan,31,Female,Noida,Yes,No,Shoes,Fashion,66541,Net Banking,2025-04-29,26-35,April,Tuesday,2025,0,premium
+1157,Ali,42,Male,Noida,Yes,Yes,Rice,Groceries,49541,Cash,2025-09-07,36-45,September,Sunday,2025,1,high
+1158,Zoya,42,Female,Meerut,Yes,Yes,Tea,Groceries,48322,Card,2025-09-25,36-45,September,Thursday,2025,1,high
+1159,Farhan,25,Female,Meerut,No,Yes,Football,Sports,55571,Cash,2025-05-21,18-25,May,Wednesday,2025,1,premium
+1160,Priya,57,Female,Noida,Yes,No,Rice,Groceries,63760,Upi,2025-06-23,46-60,June,Monday,2025,0,premium
+1161,Rahul,53,Female,Noida,No,No,Laptop,Electronics,11292,Net Banking,2025-09-29,46-60,September,Monday,2025,0,medium
+1162,Karan,55,Male,Delhi,No,Yes,Rice,Groceries,28671,Net Banking,2025-08-29,46-60,August,Friday,2025,1,medium
+1163,Aman,28,Male,Meerut,Yes,No,Cricket Bat,Sports,14063,Upi,2025-12-25,26-35,December,Thursday,2025,0,medium
+1164,Rahul,32,Female,Delhi,Yes,No,Mobile,Electronics,20433,Cash,2025-09-30,26-35,September,Tuesday,2025,0,medium
+1165,Neha,47,Female,Delhi,Yes,No,Cricket Bat,Sports,47912,Card,2025-02-17,46-60,February,Monday,2025,0,high
+1166,Zoya,29,Male,Meerut,No,Yes,Face Wash,Beauty,50205,Cash,2025-11-22,26-35,November,Saturday,2025,1,premium
+1167,Anjali,31,Male,Lucknow,No,Yes,Keyboard,Electronics,69511,Net Banking,2025-10-07,26-35,October,Tuesday,2025,1,premium
+1168,Anjali,24,Female,Noida,Yes,No,Cricket Bat,Sports,44805,Card,2025-04-01,18-25,April,Tuesday,2025,0,high
+1169,Karan,25,Female,Noida,No,No,Shampoo,Beauty,7372,Net Banking,2025-11-16,18-25,November,Sunday,2025,0,low
+1170,Zoya,27,Male,Gurugram,Yes,No,Football,Sports,12024,Card,2025-04-20,26-35,April,Sunday,2025,0,medium
+1171,Anjali,56,Male,Noida,No,No,Face Wash,Beauty,28857,Cash,2025-03-02,46-60,March,Sunday,2025,0,medium
+1172,Priya,39,Female,Noida,Yes,No,Mouse,Electronics,26556,Upi,2025-01-06,36-45,January,Monday,2025,0,medium
+1173,Karan,30,Male,Gurugram,Yes,No,Shampoo,Beauty,6434,Upi,2025-11-03,26-35,November,Monday,2025,0,low
+1174,Farhan,23,Female,Meerut,Yes,No,Rice,Groceries,56418,Upi,2025-04-03,18-25,April,Thursday,2025,0,premium
+1175,Sara,60,Male,Gurugram,No,Yes,Milk,Groceries,65952,Card,2025-06-06,46-60,June,Friday,2025,1,premium
+1176,Neha,27,Male,Delhi,Yes,Yes,Rice,Groceries,24563,Cash,2025-11-23,26-35,November,Sunday,2025,1,medium
+1177,Neha,54,Male,Gurugram,Yes,No,T-Shirt,Fashion,59899,Card,2025-03-04,46-60,March,Tuesday,2025,0,premium
+1178,Anjali,27,Female,Lucknow,Yes,Yes,Tea,Groceries,31298,Cash,2025-09-11,26-35,September,Thursday,2025,1,high
+1179,Anjali,51,Female,Delhi,No,Yes,Cricket Bat,Sports,36938,Cash,2025-09-04,46-60,September,Thursday,2025,1,high
+1180,Vikas,20,Female,Lucknow,No,No,T-Shirt,Fashion,57676,Cash,2025-04-10,18-25,April,Thursday,2025,0,premium
+1181,Sara,49,Female,Meerut,Yes,No,Football,Sports,15718,Card,2025-04-07,46-60,April,Monday,2025,0,medium
+1182,Rahul,36,Male,Gurugram,No,Yes,Shoes,Fashion,22822,Card,2025-04-19,36-45,April,Saturday,2025,1,medium
+1183,Aman,29,Male,Lucknow,Yes,Yes,Football,Sports,60026,Upi,2025-10-12,26-35,October,Sunday,2025,1,premium
+1184,Priya,59,Female,Lucknow,No,No,Mouse,Electronics,51782,Net Banking,2025-09-15,46-60,September,Monday,2025,0,premium
+1185,Aman,42,Male,Meerut,No,Yes,Watch,Fashion,31187,Net Banking,2025-03-02,36-45,March,Sunday,2025,1,high
+1186,Aman,53,Male,Lucknow,Yes,No,Football,Sports,51492,Upi,2025-11-09,46-60,November,Sunday,2025,0,premium
+1187,Neha,27,Female,Delhi,No,No,Mobile,Electronics,1623,Cash,2025-04-21,26-35,April,Monday,2025,0,low
+1188,Sara,53,Male,Delhi,No,No,Face Wash,Beauty,67897,Upi,2025-12-17,46-60,December,Wednesday,2025,0,premium
+1189,Rahul,42,Female,Meerut,No,Yes,Rice,Groceries,54242,Cash,2025-08-22,36-45,August,Friday,2025,1,premium
+1190,Karan,51,Female,Noida,No,No,Football,Sports,54345,Card,2025-02-23,46-60,February,Sunday,2025,0,premium
+1191,Zoya,20,Male,Meerut,No,No,Mobile,Electronics,52834,Cash,2025-11-24,18-25,November,Monday,2025,0,premium
+1192,Rohan,50,Male,Gurugram,Yes,Yes,Laptop,Electronics,43323,Card,2025-08-14,46-60,August,Thursday,2025,1,high
+1193,Sara,29,Female,Gurugram,No,No,Shampoo,Beauty,4761,Upi,2025-06-14,26-35,June,Saturday,2025,0,low
+1194,Neha,58,Male,Lucknow,Yes,No,Unknown,Fashion,30496,Net Banking,2025-04-15,46-60,April,Tuesday,2025,0,high
+1195,Aman,60,Male,Meerut,Yes,Yes,Mobile,Electronics,4846,Net Banking,2025-11-21,46-60,November,Friday,2025,1,low
+1196,Rahul,46,Male,Gurugram,Yes,Yes,Milk,Groceries,26660,Cash,2025-08-15,46-60,August,Friday,2025,1,medium
+1197,Rohan,53,Male,Noida,Yes,Yes,Milk,Groceries,58550,Card,2025-10-30,46-60,October,Thursday,2025,1,premium
+1198,Aman,49,Male,Noida,No,Yes,Face Wash,Beauty,29875,Upi,2025-12-18,46-60,December,Thursday,2025,1,medium
+1199,Zoya,50,Female,Meerut,No,Yes,Shampoo,Beauty,22097,Cash,2025-04-25,46-60,April,Friday,2025,1,medium
+1200,Aman,29,Female,Gurugram,No,No,Cricket Bat,Sports,28992,Net Banking,2025-04-22,26-35,April,Tuesday,2025,0,medium
+1201,Karan,19,Male,Noida,No,Yes,Football,Sports,7528,Upi,2025-06-02,18-25,June,Monday,2025,1,low
+1202,Vikas,29,Male,Meerut,No,No,Shoes,Fashion,65923,Cash,2025-07-24,26-35,July,Thursday,2025,0,premium
+1203,Farhan,58,Male,Delhi,Yes,Yes,Football,Sports,60668,Upi,2025-07-29,46-60,July,Tuesday,2025,1,premium
+1204,Priya,34,Female,Gurugram,Yes,No,Shoes,Fashion,37683,Upi,2025-10-16,26-35,October,Thursday,2025,0,high
+1205,Sara,24,Female,Lucknow,No,Yes,Mobile,Electronics,9061,Cash,2025-09-04,18-25,September,Thursday,2025,1,low
+1206,Rohan,43,Female,Gurugram,Yes,No,Laptop,Electronics,3473,Net Banking,2025-02-13,36-45,February,Thursday,2025,0,low
+1207,Sara,55,Female,Delhi,Yes,Yes,Cricket Bat,Sports,69632,Upi,2025-06-13,46-60,June,Friday,2025,1,premium
+1208,Sara,58,Female,Noida,Yes,No,Shampoo,Beauty,19370,Cash,2025-02-17,46-60,February,Monday,2025,0,medium
+1209,Neha,47,Female,Delhi,No,No,Football,Sports,36163,Upi,2025-11-11,46-60,November,Tuesday,2025,0,high
+1210,Aman,22,Female,Meerut,No,No,Face Wash,Beauty,29774,Cash,2025-11-06,18-25,November,Thursday,2025,0,medium
+1211,Neha,21,Male,Meerut,Yes,Yes,Milk,Groceries,27332,Net Banking,2025-01-02,18-25,January,Thursday,2025,1,medium
+1212,Sara,30,Female,Meerut,No,No,Cricket Bat,Sports,34665,Card,2025-03-29,26-35,March,Saturday,2025,0,high
+1213,Ali,19,Female,Delhi,Yes,No,Mobile,Electronics,26056,Net Banking,2025-08-29,18-25,August,Friday,2025,0,medium
+1214,Vikas,52,Male,Lucknow,No,Yes,Milk,Groceries,33613,Card,2025-03-24,46-60,March,Monday,2025,1,high
+1215,Aman,21,Male,Gurugram,Yes,No,Keyboard,Electronics,10547,Cash,2025-06-19,18-25,June,Thursday,2025,0,medium
+1216,Zoya,37,Male,Delhi,No,No,Unknown,Fashion,25172,Card,2025-06-11,36-45,June,Wednesday,2025,0,medium
+1217,Karan,34,Female,Meerut,Yes,No,Shampoo,Beauty,15433,Net Banking,2025-06-14,26-35,June,Saturday,2025,0,medium
+1218,Ali,25,Male,Noida,Yes,Yes,Football,Sports,47380,Card,2025-06-12,18-25,June,Thursday,2025,1,high
+1219,Priya,48,Male,Delhi,No,Yes,Rice,Groceries,14712,Net Banking,2025-06-04,46-60,June,Wednesday,2025,1,medium
+1220,Anjali,23,Female,Lucknow,No,Yes,Unknown,Electronics,57678,Cash,2025-05-20,18-25,May,Tuesday,2025,1,premium
+1221,Sara,55,Female,Noida,Yes,Yes,Face Wash,Beauty,40175,Card,2025-01-12,46-60,January,Sunday,2025,1,high
+1222,Anjali,22,Female,Lucknow,No,No,Shampoo,Beauty,28327,Cash,2025-07-19,18-25,July,Saturday,2025,0,medium
+1223,Karan,52,Female,Noida,No,No,Mouse,Electronics,23473,Net Banking,2025-02-08,46-60,February,Saturday,2025,0,medium
+1224,Anjali,31,Male,Gurugram,No,Yes,Face Wash,Beauty,23595,Net Banking,2025-01-03,26-35,January,Friday,2025,1,medium
+1225,Aman,40,Female,Gurugram,No,No,Football,Sports,12105,Card,2025-04-28,36-45,April,Monday,2025,0,medium
+1226,Rahul,43,Male,Gurugram,Yes,No,Rice,Groceries,65924,Net Banking,2025-05-06,36-45,May,Tuesday,2025,0,premium
+1227,Ali,24,Female,Noida,No,No,Shampoo,Beauty,6764,Cash,2025-11-14,18-25,November,Friday,2025,0,low
+1228,Karan,36,Female,Noida,No,No,Rice,Groceries,3490,Net Banking,2025-03-18,36-45,March,Tuesday,2025,0,low
+1229,Karan,23,Female,Noida,No,Yes,Football,Sports,69642,Cash,2025-03-26,18-25,March,Wednesday,2025,1,premium
+1230,Anjali,58,Male,Delhi,Yes,No,Face Wash,Beauty,25943,Cash,2025-11-07,46-60,November,Friday,2025,0,medium
+1231,Farhan,29,Male,Meerut,Yes,No,Cricket Bat,Sports,730,Net Banking,2025-01-31,26-35,January,Friday,2025,0,low
+1232,Aman,39,Female,Meerut,Yes,No,Mouse,Electronics,55264,Net Banking,2025-12-28,36-45,December,Sunday,2025,0,premium
+1233,Aman,38,Female,Gurugram,No,Yes,Watch,Fashion,69790,Card,2025-03-24,36-45,March,Monday,2025,1,premium
+1234,Aman,24,Female,Noida,No,Yes,Cricket Bat,Sports,7238,Net Banking,2025-05-27,18-25,May,Tuesday,2025,1,low
+1235,Karan,56,Male,Lucknow,Yes,No,Mobile,Electronics,13885,Upi,2025-07-25,46-60,July,Friday,2025,0,medium
+1236,Farhan,24,Male,Meerut,Yes,No,Face Wash,Beauty,37185,Cash,2025-06-11,18-25,June,Wednesday,2025,0,high
+1237,Ali,29,Male,Lucknow,Yes,Yes,Football,Sports,21351,Upi,2025-10-22,26-35,October,Wednesday,2025,1,medium
+1238,Neha,36,Male,Gurugram,No,Yes,Rice,Groceries,19075,Card,2025-03-26,36-45,March,Wednesday,2025,1,medium
+1239,Anjali,35,Male,Lucknow,No,Yes,Football,Sports,26277,Cash,2025-08-31,26-35,August,Sunday,2025,1,medium
+1240,Aman,39,Female,Delhi,Yes,No,Unknown,Sports,3892,Upi,2025-01-21,36-45,January,Tuesday,2025,0,low
+1241,Ali,27,Female,Gurugram,Yes,No,Mouse,Electronics,41833,Upi,2025-12-04,26-35,December,Thursday,2025,0,high
+1242,Farhan,49,Male,Gurugram,Yes,No,Rice,Groceries,18486,Upi,2025-08-23,46-60,August,Saturday,2025,0,medium
+1243,Ali,35,Male,Delhi,No,No,Tea,Groceries,37930,Net Banking,2025-08-10,26-35,August,Sunday,2025,0,high
+1244,Sara,42,Female,Noida,Yes,Yes,Mouse,Electronics,61726,Card,2025-11-20,36-45,November,Thursday,2025,1,premium
+1245,Vikas,27,Female,Lucknow,Yes,No,Milk,Groceries,43425,Cash,2025-06-20,26-35,June,Friday,2025,0,high
+1246,Anjali,51,Female,Noida,No,Yes,Shoes,Fashion,62300,Card,2025-05-06,46-60,May,Tuesday,2025,1,premium
+1247,Rohan,48,Male,Delhi,No,No,Cricket Bat,Sports,67776,Card,2025-09-29,46-60,September,Monday,2025,0,premium
+1248,Sara,60,Female,Delhi,No,No,Football,Sports,39369,Upi,2025-07-15,46-60,July,Tuesday,2025,0,high
+1249,Priya,52,Female,Lucknow,Yes,No,Cricket Bat,Sports,38726,Upi,2025-04-26,46-60,April,Saturday,2025,0,high
+1250,Karan,29,Male,Meerut,No,No,Shampoo,Beauty,62244,Cash,2025-07-18,26-35,July,Friday,2025,0,premium
+1251,Neha,51,Male,Delhi,No,No,Unknown,Electronics,18668,Cash,2025-11-27,46-60,November,Thursday,2025,0,medium
+1252,Vikas,46,Male,Noida,No,No,T-Shirt,Fashion,892,Upi,2025-06-02,46-60,June,Monday,2025,0,low
+1253,Farhan,46,Male,Delhi,Yes,Yes,Watch,Fashion,35045,Cash,2025-01-11,46-60,January,Saturday,2025,1,high
+1254,Farhan,33,Female,Gurugram,Yes,No,Rice,Groceries,9931,Card,2025-03-11,26-35,March,Tuesday,2025,0,low
+1255,Sara,37,Female,Delhi,No,Yes,Watch,Fashion,59887,Upi,2025-08-06,36-45,August,Wednesday,2025,1,premium
+1256,Aman,42,Female,Lucknow,No,Yes,Mouse,Electronics,48735,Upi,2025-09-08,36-45,September,Monday,2025,1,high
+1257,Vikas,51,Male,Lucknow,Yes,No,T-Shirt,Fashion,24518,Upi,2025-01-02,46-60,January,Thursday,2025,0,medium
+1258,Vikas,27,Male,Delhi,No,Yes,Milk,Groceries,35456,Cash,2025-11-18,26-35,November,Tuesday,2025,1,high
+1259,Rohan,30,Female,Delhi,No,Yes,Watch,Fashion,32330,Upi,2025-12-10,26-35,December,Wednesday,2025,1,high
+1260,Anjali,27,Female,Noida,Yes,No,Football,Sports,45936,Net Banking,2025-10-29,26-35,October,Wednesday,2025,0,high
+1261,Sara,45,Female,Delhi,No,No,Watch,Fashion,24995,Cash,2025-05-05,36-45,May,Monday,2025,0,medium
+1262,Zoya,20,Male,Lucknow,Yes,No,Face Wash,Beauty,4041,Cash,2025-07-18,18-25,July,Friday,2025,0,low
+1263,Neha,57,Male,Meerut,No,No,Shampoo,Beauty,69834,Cash,2025-07-11,46-60,July,Friday,2025,0,premium
+1264,Sara,34,Female,Noida,Yes,No,Shoes,Fashion,20981,Upi,2025-01-04,26-35,January,Saturday,2025,0,medium
+1265,Rohan,28,Male,Delhi,No,Yes,Cricket Bat,Sports,3788,Net Banking,2025-11-24,26-35,November,Monday,2025,1,low
+1266,Neha,54,Male,Noida,No,No,Milk,Groceries,53922,Cash,2025-01-18,46-60,January,Saturday,2025,0,premium
+1267,Sara,23,Female,Noida,No,Yes,Shampoo,Beauty,15455,Cash,2025-08-07,18-25,August,Thursday,2025,1,medium
+1268,Farhan,44,Female,Delhi,No,No,Rice,Groceries,10711,Cash,2025-01-13,36-45,January,Monday,2025,0,medium
+1269,Vikas,48,Female,Meerut,No,No,Football,Sports,41196,Card,2025-10-19,46-60,October,Sunday,2025,0,high
+1270,Farhan,51,Female,Gurugram,Yes,No,Face Wash,Beauty,1757,Net Banking,2025-11-26,46-60,November,Wednesday,2025,0,low
+1271,Zoya,19,Male,Meerut,No,No,Cricket Bat,Sports,68093,Cash,2025-10-21,18-25,October,Tuesday,2025,0,premium
+1272,Karan,20,Male,Delhi,Yes,No,Shampoo,Beauty,67922,Card,2025-08-27,18-25,August,Wednesday,2025,0,premium
+1273,Karan,57,Female,Delhi,Yes,No,Cricket Bat,Sports,17562,Cash,2025-09-10,46-60,September,Wednesday,2025,0,medium
+1274,Rohan,20,Female,Delhi,Yes,No,Shampoo,Beauty,56697,Upi,2025-05-20,18-25,May,Tuesday,2025,0,premium
+1275,Zoya,24,Female,Lucknow,Yes,No,Laptop,Electronics,49064,Net Banking,2025-01-02,18-25,January,Thursday,2025,0,high
+1276,Karan,44,Male,Gurugram,No,No,Tea,Groceries,55456,Card,2025-10-24,36-45,October,Friday,2025,0,premium
+1277,Vikas,54,Female,Meerut,No,No,T-Shirt,Fashion,36646,Upi,2025-08-12,46-60,August,Tuesday,2025,0,high
+1278,Vikas,45,Male,Delhi,Yes,No,Milk,Groceries,26847,Net Banking,2025-05-28,36-45,May,Wednesday,2025,0,medium
+1279,Zoya,50,Male,Noida,No,No,Football,Sports,10392,Card,2025-10-05,46-60,October,Sunday,2025,0,medium
+1280,Vikas,60,Female,Gurugram,No,No,Mobile,Electronics,54826,Card,2025-05-01,46-60,May,Thursday,2025,0,premium
+1281,Aman,35,Female,Gurugram,No,No,Rice,Groceries,65636,Upi,2025-03-01,26-35,March,Saturday,2025,0,premium
+1282,Anjali,48,Female,Noida,No,No,Mouse,Electronics,45730,Card,2025-07-19,46-60,July,Saturday,2025,0,high
+1283,Rohan,32,Male,Gurugram,Yes,Yes,Watch,Fashion,19264,Upi,2025-07-07,26-35,July,Monday,2025,1,medium
+1284,Farhan,18,Male,Lucknow,No,Yes,Keyboard,Electronics,16158,Card,2025-01-18,18-25,January,Saturday,2025,1,medium
+1285,Neha,54,Male,Gurugram,Yes,No,Keyboard,Electronics,38349,Upi,2025-11-13,46-60,November,Thursday,2025,0,high
+1286,Ali,20,Male,Gurugram,No,Yes,Watch,Fashion,40572,Upi,2025-06-22,18-25,June,Sunday,2025,1,high
+1287,Neha,21,Female,Lucknow,No,No,Mobile,Electronics,55120,Card,2025-03-08,18-25,March,Saturday,2025,0,premium
+1288,Farhan,38,Female,Delhi,Yes,Yes,Face Wash,Beauty,55483,Net Banking,2025-04-06,36-45,April,Sunday,2025,1,premium
+1289,Vikas,44,Male,Gurugram,Yes,No,Mouse,Electronics,44085,Cash,2025-06-20,36-45,June,Friday,2025,0,high
+1290,Ali,21,Female,Noida,Yes,No,Milk,Groceries,7894,Upi,2025-05-01,18-25,May,Thursday,2025,0,low
+1291,Karan,24,Female,Delhi,Yes,Yes,Shampoo,Beauty,64400,Cash,2025-07-19,18-25,July,Saturday,2025,1,premium
+1292,Aman,43,Female,Gurugram,Yes,No,Laptop,Electronics,24194,Net Banking,2025-10-30,36-45,October,Thursday,2025,0,medium
+1293,Aman,40,Female,Delhi,No,No,Laptop,Electronics,29371,Upi,2025-08-29,36-45,August,Friday,2025,0,medium
+1294,Rohan,39,Male,Lucknow,No,Yes,Shoes,Fashion,24676,Card,2025-11-21,36-45,November,Friday,2025,1,medium
+1295,Ali,19,Male,Delhi,No,No,Tea,Groceries,38184,Card,2025-06-03,18-25,June,Tuesday,2025,0,high
+1296,Aman,48,Female,Gurugram,No,No,Shoes,Fashion,10901,Card,2025-03-05,46-60,March,Wednesday,2025,0,medium
+1297,Sara,49,Female,Delhi,No,No,Football,Sports,3836,Card,2025-01-08,46-60,January,Wednesday,2025,0,low
+1298,Priya,52,Female,Noida,No,Yes,Milk,Groceries,48614,Card,2025-10-24,46-60,October,Friday,2025,1,high
+1299,Karan,39,Female,Meerut,No,Yes,Cricket Bat,Sports,5911,Card,2025-04-05,36-45,April,Saturday,2025,1,low
+1300,Sara,28,Female,Delhi,Yes,No,Keyboard,Electronics,63184,Card,2025-05-02,26-35,May,Friday,2025,0,premium
+1301,Neha,50,Female,Lucknow,No,No,Football,Sports,22169,Upi,2025-04-18,46-60,April,Friday,2025,0,medium
+1302,Aman,47,Female,Delhi,No,Yes,Rice,Groceries,28419,Cash,2025-07-13,46-60,July,Sunday,2025,1,medium
+1303,Rohan,27,Male,Meerut,No,Yes,Shoes,Fashion,62094,Upi,2025-07-26,26-35,July,Saturday,2025,1,premium
+1304,Ali,45,Female,Noida,Yes,No,Shampoo,Beauty,5589,Net Banking,2025-09-15,36-45,September,Monday,2025,0,low
+1305,Vikas,37,Female,Meerut,Yes,Yes,Shampoo,Beauty,52358,Card,2025-03-26,36-45,March,Wednesday,2025,1,premium
+1306,Aman,57,Female,Meerut,No,No,Watch,Fashion,27355,Card,2025-03-04,46-60,March,Tuesday,2025,0,medium
+1307,Neha,53,Female,Lucknow,Yes,Yes,Football,Sports,21046,Net Banking,2025-08-11,46-60,August,Monday,2025,1,medium
+1308,Sara,29,Female,Lucknow,Yes,No,Shampoo,Beauty,9039,Card,2025-03-08,26-35,March,Saturday,2025,0,low
+1309,Karan,43,Male,Meerut,Yes,No,Tea,Groceries,44749,Card,2025-07-11,36-45,July,Friday,2025,0,high
+1310,Aman,38,Female,Noida,No,No,Shoes,Fashion,9468,Upi,2025-01-31,36-45,January,Friday,2025,0,low
+1311,Neha,52,Male,Delhi,Yes,Yes,Shoes,Fashion,44418,Net Banking,2025-02-06,46-60,February,Thursday,2025,1,high
+1312,Rahul,54,Female,Noida,Yes,Yes,Shoes,Fashion,59115,Net Banking,2025-02-05,46-60,February,Wednesday,2025,1,premium
+1313,Priya,51,Male,Meerut,No,No,T-Shirt,Fashion,21326,Net Banking,2025-11-10,46-60,November,Monday,2025,0,medium
+1314,Farhan,38,Male,Noida,Yes,No,T-Shirt,Fashion,37901,Net Banking,2025-03-25,36-45,March,Tuesday,2025,0,high
+1315,Anjali,34,Female,Delhi,Yes,Yes,T-Shirt,Fashion,44788,Card,2025-12-17,26-35,December,Wednesday,2025,1,high
+1316,Ali,33,Male,Gurugram,Yes,Yes,Shampoo,Beauty,40228,Cash,2025-01-12,26-35,January,Sunday,2025,1,high
+1317,Anjali,50,Female,Meerut,No,No,Milk,Groceries,23387,Net Banking,2025-03-04,46-60,March,Tuesday,2025,0,medium
+1318,Rohan,56,Female,Lucknow,No,No,Football,Sports,21781,Net Banking,2025-12-26,46-60,December,Friday,2025,0,medium
+1319,Farhan,41,Female,Gurugram,Yes,Yes,Face Wash,Beauty,68859,Upi,2025-06-03,36-45,June,Tuesday,2025,1,premium
+1320,Karan,40,Female,Noida,No,No,Mouse,Electronics,16489,Net Banking,2025-10-11,36-45,October,Saturday,2025,0,medium
+1321,Karan,59,Female,Noida,Yes,No,Laptop,Electronics,57465,Upi,2025-10-01,46-60,October,Wednesday,2025,0,premium
+1322,Priya,23,Female,Delhi,No,Yes,Watch,Fashion,62928,Upi,2025-01-04,18-25,January,Saturday,2025,1,premium
+1323,Neha,57,Male,Meerut,Yes,No,T-Shirt,Fashion,29214,Cash,2025-12-16,46-60,December,Tuesday,2025,0,medium
+1324,Farhan,20,Male,Meerut,Yes,Yes,Laptop,Electronics,47259,Upi,2025-06-26,18-25,June,Thursday,2025,1,high
+1325,Anjali,27,Male,Lucknow,No,No,T-Shirt,Fashion,27307,Net Banking,2025-11-25,26-35,November,Tuesday,2025,0,medium
+1326,Farhan,26,Male,Lucknow,No,Yes,Shampoo,Beauty,53968,Upi,2025-01-22,26-35,January,Wednesday,2025,1,premium
+1327,Rohan,42,Male,Gurugram,Yes,No,Laptop,Electronics,65341,Upi,2025-01-19,36-45,January,Sunday,2025,0,premium
+1328,Rohan,18,Male,Delhi,No,Yes,Face Wash,Beauty,66145,Card,2025-10-19,18-25,October,Sunday,2025,1,premium
+1329,Farhan,38,Female,Noida,No,No,Football,Sports,27861,Card,2025-03-29,36-45,March,Saturday,2025,0,medium
+1330,Priya,37,Female,Meerut,No,Yes,Face Wash,Beauty,53381,Upi,2025-10-30,36-45,October,Thursday,2025,1,premium
+1331,Rohan,55,Female,Delhi,Yes,No,Rice,Groceries,30252,Net Banking,2025-07-21,46-60,July,Monday,2025,0,high
+1332,Priya,39,Male,Noida,No,Yes,Cricket Bat,Sports,64148,Upi,2025-06-09,36-45,June,Monday,2025,1,premium
+1333,Aman,45,Female,Noida,Yes,No,Keyboard,Electronics,13033,Card,2025-08-23,36-45,August,Saturday,2025,0,medium
+1334,Karan,33,Female,Meerut,Yes,No,Keyboard,Electronics,53601,Card,2025-10-24,26-35,October,Friday,2025,0,premium
+1335,Rahul,32,Female,Gurugram,Yes,Yes,Unknown,Beauty,21185,Cash,2025-02-08,26-35,February,Saturday,2025,1,medium
+1336,Neha,38,Male,Noida,Yes,No,T-Shirt,Fashion,44685,Cash,2025-04-26,36-45,April,Saturday,2025,0,high
+1337,Vikas,37,Female,Delhi,No,No,Tea,Groceries,46701,Upi,2025-03-16,36-45,March,Sunday,2025,0,high
+1338,Zoya,50,Female,Meerut,Yes,No,Football,Sports,67143,Net Banking,2025-12-22,46-60,December,Monday,2025,0,premium
+1339,Sara,56,Male,Gurugram,No,No,T-Shirt,Fashion,40087,Upi,2025-11-13,46-60,November,Thursday,2025,0,high
+1340,Karan,51,Male,Gurugram,Yes,No,Milk,Groceries,60417,Cash,2025-12-12,46-60,December,Friday,2025,0,premium
+1341,Anjali,56,Female,Delhi,Yes,Yes,Football,Sports,66928,Upi,2025-05-22,46-60,May,Thursday,2025,1,premium
+1342,Karan,31,Female,Lucknow,Yes,No,Laptop,Electronics,19599,Cash,2025-06-17,26-35,June,Tuesday,2025,0,medium
+1343,Rohan,19,Female,Gurugram,Yes,No,T-Shirt,Fashion,39798,Net Banking,2025-04-16,18-25,April,Wednesday,2025,0,high
+1344,Rahul,30,Male,Noida,No,No,Cricket Bat,Sports,7085,Net Banking,2025-05-07,26-35,May,Wednesday,2025,0,low
+1345,Farhan,31,Female,Noida,Yes,No,Unknown,Electronics,27145,Cash,2025-06-18,26-35,June,Wednesday,2025,0,medium
+1346,Sara,40,Female,Meerut,No,No,Shoes,Fashion,10840,Cash,2025-08-03,36-45,August,Sunday,2025,0,medium
+1347,Ali,39,Female,Meerut,No,Yes,Keyboard,Electronics,43835,Upi,2025-02-12,36-45,February,Wednesday,2025,1,high
+1348,Aman,23,Male,Noida,No,Yes,Cricket Bat,Sports,21517,Net Banking,2025-01-09,18-25,January,Thursday,2025,1,medium
+1349,Zoya,24,Female,Delhi,Yes,Yes,Tea,Groceries,66773,Card,2025-02-02,18-25,February,Sunday,2025,1,premium
+1350,Priya,58,Male,Noida,Yes,No,Milk,Groceries,69262,Cash,2025-04-25,46-60,April,Friday,2025,0,premium
+1351,Aman,28,Male,Gurugram,No,No,Football,Sports,64900,Cash,2025-01-31,26-35,January,Friday,2025,0,premium
+1352,Aman,40,Female,Meerut,No,No,Shampoo,Beauty,31583,Upi,2025-12-29,36-45,December,Monday,2025,0,high
+1353,Karan,32,Male,Delhi,No,No,Keyboard,Electronics,44971,Card,2025-12-14,26-35,December,Sunday,2025,0,high
+1354,Vikas,19,Male,Meerut,Yes,No,Football,Sports,19781,Net Banking,2025-12-11,18-25,December,Thursday,2025,0,medium
+1355,Vikas,19,Female,Meerut,Yes,No,Cricket Bat,Sports,59711,Card,2025-01-07,18-25,January,Tuesday,2025,0,premium
+1356,Ali,45,Male,Gurugram,Yes,No,Tea,Groceries,34418,Card,2025-08-31,36-45,August,Sunday,2025,0,high
+1357,Neha,24,Male,Meerut,No,No,T-Shirt,Fashion,63552,Upi,2025-09-18,18-25,September,Thursday,2025,0,premium
+1358,Rahul,35,Female,Meerut,Yes,No,Milk,Groceries,64158,Net Banking,2025-06-30,26-35,June,Monday,2025,0,premium
+1359,Ali,22,Male,Meerut,Yes,No,Football,Sports,29581,Net Banking,2025-09-29,18-25,September,Monday,2025,0,medium
+1360,Priya,49,Male,Gurugram,No,Yes,Face Wash,Beauty,67744,Upi,2025-07-31,46-60,July,Thursday,2025,1,premium
+1361,Vikas,54,Male,Delhi,No,Yes,Milk,Groceries,35728,Upi,2025-05-03,46-60,May,Saturday,2025,1,high
+1362,Farhan,28,Female,Lucknow,No,No,Milk,Groceries,17961,Net Banking,2025-08-02,26-35,August,Saturday,2025,0,medium
+1363,Ali,21,Female,Noida,No,Yes,Face Wash,Beauty,69751,Card,2025-01-03,18-25,January,Friday,2025,1,premium
+1364,Priya,40,Male,Gurugram,Yes,No,Milk,Groceries,27043,Upi,2025-03-22,36-45,March,Saturday,2025,0,medium
+1365,Rohan,45,Male,Delhi,Yes,No,Shampoo,Beauty,33376,Upi,2025-12-07,36-45,December,Sunday,2025,0,high
+1366,Rahul,51,Male,Delhi,Yes,No,Milk,Groceries,20306,Net Banking,2025-04-06,46-60,April,Sunday,2025,0,medium
+1367,Ali,41,Female,Delhi,Yes,No,Mouse,Electronics,29318,Upi,2025-05-16,36-45,May,Friday,2025,0,medium
+1368,Farhan,50,Male,Delhi,Yes,No,Watch,Fashion,44944,Card,2025-06-02,46-60,June,Monday,2025,0,high
+1369,Anjali,29,Male,Gurugram,No,No,Shoes,Fashion,28560,Upi,2025-04-24,26-35,April,Thursday,2025,0,medium
+1370,Rohan,37,Male,Delhi,No,No,Cricket Bat,Sports,62224,Upi,2025-03-17,36-45,March,Monday,2025,0,premium
+1371,Aman,23,Female,Lucknow,No,Yes,Laptop,Electronics,53949,Cash,2025-12-22,18-25,December,Monday,2025,1,premium
+1372,Ali,23,Female,Lucknow,No,No,Football,Sports,31585,Card,2025-08-11,18-25,August,Monday,2025,0,high
+1373,Karan,56,Male,Gurugram,Yes,No,Laptop,Electronics,44453,Net Banking,2025-05-24,46-60,May,Saturday,2025,0,high
+1374,Farhan,53,Male,Gurugram,No,No,Cricket Bat,Sports,42534,Card,2025-12-31,46-60,December,Wednesday,2025,0,high
+1375,Sara,25,Male,Lucknow,No,No,Rice,Groceries,4897,Upi,2025-07-28,18-25,July,Monday,2025,0,low
+1376,Karan,51,Female,Noida,No,No,Football,Sports,56431,Cash,2025-02-28,46-60,February,Friday,2025,0,premium
+1377,Rohan,55,Male,Gurugram,No,No,Keyboard,Electronics,37148,Card,2025-06-16,46-60,June,Monday,2025,0,high
+1378,Anjali,42,Male,Gurugram,No,Yes,Tea,Groceries,8897,Upi,2025-10-31,36-45,October,Friday,2025,1,low
+1379,Ali,27,Female,Gurugram,No,No,Milk,Groceries,63961,Cash,2025-10-11,26-35,October,Saturday,2025,0,premium
+1380,Anjali,25,Male,Noida,No,No,Rice,Groceries,23218,Net Banking,2025-10-27,18-25,October,Monday,2025,0,medium
+1381,Farhan,28,Female,Meerut,No,Yes,Milk,Groceries,41917,Card,2025-07-01,26-35,July,Tuesday,2025,1,high
+1382,Sara,26,Female,Delhi,No,No,Shampoo,Beauty,35108,Net Banking,2025-08-04,26-35,August,Monday,2025,0,high
+1383,Neha,44,Female,Lucknow,No,No,Keyboard,Electronics,27574,Upi,2025-02-01,36-45,February,Saturday,2025,0,medium
+1384,Priya,24,Female,Meerut,No,No,Rice,Groceries,45817,Card,2025-11-07,18-25,November,Friday,2025,0,high
+1385,Vikas,20,Male,Gurugram,Yes,Yes,Face Wash,Beauty,12362,Cash,2025-07-21,18-25,July,Monday,2025,1,medium
+1386,Neha,21,Male,Noida,Yes,No,Watch,Fashion,7154,Cash,2025-07-08,18-25,July,Tuesday,2025,0,low
+1387,Rohan,38,Male,Gurugram,No,No,Cricket Bat,Sports,18218,Card,2025-11-09,36-45,November,Sunday,2025,0,medium
+1388,Neha,56,Male,Lucknow,No,No,Shampoo,Beauty,7689,Card,2025-12-26,46-60,December,Friday,2025,0,low
+1389,Vikas,36,Male,Lucknow,No,No,Shampoo,Beauty,69592,Upi,2025-07-17,36-45,July,Thursday,2025,0,premium
+1390,Zoya,39,Female,Noida,Yes,Yes,Shampoo,Beauty,53781,Upi,2025-12-08,36-45,December,Monday,2025,1,premium
+1391,Karan,31,Female,Gurugram,Yes,Yes,Face Wash,Beauty,42760,Net Banking,2025-05-04,26-35,May,Sunday,2025,1,high
+1392,Rahul,36,Female,Lucknow,No,No,Unknown,Fashion,46942,Net Banking,2025-05-18,36-45,May,Sunday,2025,0,high
+1393,Farhan,19,Female,Noida,Yes,No,Shoes,Fashion,9710,Cash,2025-11-23,18-25,November,Sunday,2025,0,low
+1394,Karan,22,Female,Lucknow,No,No,Rice,Groceries,12588,Cash,2025-08-25,18-25,August,Monday,2025,0,medium
+1395,Sara,59,Female,Noida,No,No,Mobile,Electronics,26008,Cash,2025-06-07,46-60,June,Saturday,2025,0,medium
+1396,Priya,52,Male,Delhi,Yes,No,Rice,Groceries,22312,Cash,2025-11-18,46-60,November,Tuesday,2025,0,medium
+1397,Vikas,28,Male,Delhi,No,No,Face Wash,Beauty,34600,Cash,2025-06-22,26-35,June,Sunday,2025,0,high
+1398,Anjali,32,Female,Gurugram,Yes,No,Mobile,Electronics,29195,Cash,2025-03-07,26-35,March,Friday,2025,0,medium
+1399,Farhan,53,Female,Meerut,No,Yes,Cricket Bat,Sports,64189,Card,2025-05-07,46-60,May,Wednesday,2025,1,premium
+1400,Aman,26,Female,Meerut,Yes,No,Watch,Fashion,60722,Net Banking,2025-04-17,26-35,April,Thursday,2025,0,premium
+1401,Zoya,36,Female,Delhi,No,No,Watch,Fashion,43582,Upi,2025-04-26,36-45,April,Saturday,2025,0,high
+1402,Farhan,46,Male,Gurugram,Yes,Yes,Cricket Bat,Sports,22711,Card,2025-09-08,46-60,September,Monday,2025,1,medium
+1403,Vikas,21,Female,Noida,Yes,Yes,Milk,Groceries,1543,Net Banking,2025-12-18,18-25,December,Thursday,2025,1,low
+1404,Priya,33,Male,Gurugram,Yes,Yes,Keyboard,Electronics,66482,Card,2025-03-12,26-35,March,Wednesday,2025,1,premium
+1405,Aman,56,Female,Delhi,Yes,No,Laptop,Electronics,56823,Cash,2025-06-15,46-60,June,Sunday,2025,0,premium
+1406,Aman,38,Male,Noida,No,No,Face Wash,Beauty,68129,Net Banking,2025-08-29,36-45,August,Friday,2025,0,premium
+1407,Rohan,56,Female,Delhi,Yes,Yes,T-Shirt,Fashion,5911,Net Banking,2025-06-21,46-60,June,Saturday,2025,1,low
+1408,Rohan,59,Male,Delhi,Yes,No,Mobile,Electronics,29374,Card,2025-10-01,46-60,October,Wednesday,2025,0,medium
+1409,Rahul,48,Female,Lucknow,No,No,Watch,Fashion,8273,Net Banking,2025-09-03,46-60,September,Wednesday,2025,0,low
+1410,Karan,28,Female,Gurugram,Yes,No,Football,Sports,12167,Upi,2025-08-03,26-35,August,Sunday,2025,0,medium
+1411,Rohan,57,Female,Lucknow,Yes,No,Tea,Groceries,32677,Card,2025-02-27,46-60,February,Thursday,2025,0,high
+1412,Sara,51,Female,Delhi,Yes,No,Cricket Bat,Sports,66090,Upi,2025-11-27,46-60,November,Thursday,2025,0,premium
+1413,Aman,39,Female,Delhi,Yes,No,Unknown,Fashion,65920,Cash,2025-12-21,36-45,December,Sunday,2025,0,premium
+1414,Anjali,25,Female,Meerut,Yes,Yes,Laptop,Electronics,36018,Net Banking,2025-01-18,18-25,January,Saturday,2025,1,high
+1415,Rahul,38,Male,Meerut,Yes,No,Shampoo,Beauty,24923,Net Banking,2025-11-26,36-45,November,Wednesday,2025,0,medium
+1416,Vikas,20,Male,Meerut,No,No,Shampoo,Beauty,39309,Net Banking,2025-09-12,18-25,September,Friday,2025,0,high
+1417,Aman,53,Female,Gurugram,No,Yes,Football,Sports,66934,Cash,2025-07-16,46-60,July,Wednesday,2025,1,premium
+1418,Rohan,21,Male,Meerut,Yes,Yes,Face Wash,Beauty,67430,Cash,2025-07-24,18-25,July,Thursday,2025,1,premium
+1419,Ali,19,Female,Delhi,No,Yes,Face Wash,Beauty,4689,Net Banking,2025-02-12,18-25,February,Wednesday,2025,1,low
+1420,Anjali,29,Female,Lucknow,Yes,No,Face Wash,Beauty,7606,Cash,2025-04-26,26-35,April,Saturday,2025,0,low
+1421,Sara,24,Male,Delhi,No,No,Rice,Groceries,38576,Card,2025-10-17,18-25,October,Friday,2025,0,high
+1422,Aman,29,Female,Noida,Yes,No,Face Wash,Beauty,16108,Upi,2025-07-03,26-35,July,Thursday,2025,0,medium
+1423,Vikas,54,Male,Noida,No,Yes,Shampoo,Beauty,45355,Net Banking,2025-06-28,46-60,June,Saturday,2025,1,high
+1424,Karan,21,Female,Noida,No,No,Tea,Groceries,35630,Cash,2025-10-08,18-25,October,Wednesday,2025,0,high
+1425,Priya,51,Female,Lucknow,No,No,Mouse,Electronics,16363,Net Banking,2025-04-23,46-60,April,Wednesday,2025,0,medium
+1426,Zoya,23,Female,Delhi,Yes,No,Rice,Groceries,11916,Cash,2025-10-09,18-25,October,Thursday,2025,0,medium
+1427,Neha,33,Female,Delhi,No,No,Cricket Bat,Sports,6360,Cash,2025-01-18,26-35,January,Saturday,2025,0,low
+1428,Rohan,52,Male,Meerut,No,No,Mouse,Electronics,56355,Card,2025-11-23,46-60,November,Sunday,2025,0,premium
+1429,Sara,57,Male,Delhi,No,No,Football,Sports,64773,Net Banking,2025-04-04,46-60,April,Friday,2025,0,premium
+1430,Farhan,32,Male,Gurugram,Yes,No,Rice,Groceries,26490,Cash,2025-04-12,26-35,April,Saturday,2025,0,medium
+1431,Ali,28,Male,Lucknow,Yes,Yes,Shampoo,Beauty,53432,Card,2025-07-07,26-35,July,Monday,2025,1,premium
+1432,Priya,30,Male,Noida,No,No,Cricket Bat,Sports,63733,Cash,2025-01-11,26-35,January,Saturday,2025,0,premium
+1433,Rahul,26,Male,Noida,Yes,No,T-Shirt,Fashion,8718,Upi,2025-05-23,26-35,May,Friday,2025,0,low
+1434,Zoya,28,Male,Lucknow,Yes,No,Face Wash,Beauty,57338,Card,2025-09-21,26-35,September,Sunday,2025,0,premium
+1435,Anjali,45,Male,Delhi,No,No,Rice,Groceries,7505,Card,2025-11-11,36-45,November,Tuesday,2025,0,low
+1436,Vikas,25,Male,Gurugram,Yes,Yes,Keyboard,Electronics,23810,Card,2025-11-12,18-25,November,Wednesday,2025,1,medium
+1437,Anjali,28,Male,Lucknow,Yes,Yes,Cricket Bat,Sports,58924,Card,2025-03-16,26-35,March,Sunday,2025,1,premium
+1438,Rohan,49,Female,Delhi,Yes,Yes,Milk,Groceries,1527,Net Banking,2025-05-25,46-60,May,Sunday,2025,1,low
+1439,Priya,56,Male,Delhi,Yes,No,Milk,Groceries,42009,Upi,2025-04-17,46-60,April,Thursday,2025,0,high
+1440,Anjali,22,Female,Noida,No,No,Rice,Groceries,30053,Net Banking,2025-02-26,18-25,February,Wednesday,2025,0,high
+1441,Aman,55,Female,Lucknow,No,Yes,Cricket Bat,Sports,25866,Cash,2025-07-21,46-60,July,Monday,2025,1,medium
+1442,Rahul,56,Male,Delhi,Yes,Yes,Watch,Fashion,65314,Upi,2025-09-19,46-60,September,Friday,2025,1,premium
+1443,Karan,48,Male,Gurugram,No,No,Face Wash,Beauty,21445,Card,2025-02-15,46-60,February,Saturday,2025,0,medium
+1444,Aman,48,Male,Lucknow,No,Yes,Cricket Bat,Sports,68323,Cash,2025-05-07,46-60,May,Wednesday,2025,1,premium
+1445,Sara,53,Female,Noida,Yes,Yes,Tea,Groceries,3771,Upi,2025-02-25,46-60,February,Tuesday,2025,1,low
+1446,Vikas,42,Male,Noida,Yes,Yes,Cricket Bat,Sports,58260,Cash,2025-09-16,36-45,September,Tuesday,2025,1,premium
+1447,Neha,43,Male,Noida,No,No,Shampoo,Beauty,64643,Cash,2025-04-17,36-45,April,Thursday,2025,0,premium
+1448,Sara,20,Female,Noida,Yes,Yes,Tea,Groceries,28487,Card,2025-04-30,18-25,April,Wednesday,2025,1,medium
+1449,Zoya,25,Male,Meerut,Yes,No,Rice,Groceries,46598,Card,2025-09-18,18-25,September,Thursday,2025,0,high
+1450,Karan,25,Male,Gurugram,No,No,Face Wash,Beauty,53900,Card,2025-05-09,18-25,May,Friday,2025,0,premium
+1451,Rohan,22,Female,Delhi,No,Yes,Milk,Groceries,62043,Upi,2025-11-27,18-25,November,Thursday,2025,1,premium
+1452,Neha,23,Male,Noida,Yes,Yes,Shoes,Fashion,965,Net Banking,2025-05-03,18-25,May,Saturday,2025,1,low
+1453,Sara,19,Male,Meerut,No,No,Cricket Bat,Sports,59135,Card,2025-09-10,18-25,September,Wednesday,2025,0,premium
+1454,Anjali,22,Male,Delhi,No,Yes,Tea,Groceries,33554,Cash,2025-12-14,18-25,December,Sunday,2025,1,high
+1455,Priya,32,Male,Delhi,Yes,No,Laptop,Electronics,373,Upi,2025-03-31,26-35,March,Monday,2025,0,low
+1456,Anjali,42,Male,Delhi,No,No,Mouse,Electronics,18676,Cash,2025-02-02,36-45,February,Sunday,2025,0,medium
+1457,Ali,39,Male,Gurugram,Yes,No,Shoes,Fashion,69326,Upi,2025-11-27,36-45,November,Thursday,2025,0,premium
+1458,Anjali,46,Male,Noida,Yes,Yes,T-Shirt,Fashion,54853,Card,2025-01-22,46-60,January,Wednesday,2025,1,premium
+1459,Sara,52,Female,Gurugram,Yes,No,Rice,Groceries,11654,Card,2025-05-06,46-60,May,Tuesday,2025,0,medium
+1460,Sara,41,Male,Meerut,Yes,No,Watch,Fashion,920,Net Banking,2025-04-04,36-45,April,Friday,2025,0,low
+1461,Aman,20,Male,Delhi,No,No,Rice,Groceries,58775,Upi,2025-12-30,18-25,December,Tuesday,2025,0,premium
+1462,Zoya,49,Female,Lucknow,No,No,Face Wash,Beauty,59711,Net Banking,2025-02-05,46-60,February,Wednesday,2025,0,premium
+1463,Anjali,21,Male,Noida,No,No,Football,Sports,56529,Card,2025-10-05,18-25,October,Sunday,2025,0,premium
+1464,Karan,29,Female,Meerut,Yes,No,Keyboard,Electronics,46812,Net Banking,2025-10-18,26-35,October,Saturday,2025,0,high
+1465,Karan,57,Male,Delhi,No,No,Tea,Groceries,54276,Card,2025-07-26,46-60,July,Saturday,2025,0,premium
+1466,Vikas,53,Male,Noida,No,Yes,T-Shirt,Fashion,5046,Card,2025-06-30,46-60,June,Monday,2025,1,low
+1467,Anjali,49,Female,Meerut,Yes,No,Keyboard,Electronics,29609,Cash,2025-11-18,46-60,November,Tuesday,2025,0,medium
+1468,Ali,58,Female,Gurugram,Yes,Yes,Cricket Bat,Sports,29329,Net Banking,2025-11-01,46-60,November,Saturday,2025,1,medium
+1469,Anjali,54,Male,Gurugram,No,No,Shoes,Fashion,60547,Net Banking,2025-06-13,46-60,June,Friday,2025,0,premium
+1470,Rahul,39,Female,Lucknow,Yes,No,Watch,Fashion,44745,Net Banking,2025-03-11,36-45,March,Tuesday,2025,0,high
+1471,Rahul,41,Female,Delhi,No,No,Football,Sports,60350,Cash,2025-11-08,36-45,November,Saturday,2025,0,premium
+1472,Priya,33,Female,Noida,No,No,Rice,Groceries,34358,Cash,2025-11-06,26-35,November,Thursday,2025,0,high
+1473,Anjali,32,Female,Noida,Yes,No,Tea,Groceries,5029,Upi,2025-06-14,26-35,June,Saturday,2025,0,low
+1474,Sara,44,Male,Delhi,No,Yes,Mouse,Electronics,31149,Net Banking,2025-06-28,36-45,June,Saturday,2025,1,high
+1475,Aman,42,Female,Gurugram,No,No,Mobile,Electronics,6942,Net Banking,2025-08-27,36-45,August,Wednesday,2025,0,low
+1476,Aman,60,Female,Gurugram,Yes,No,Watch,Fashion,44015,Upi,2025-01-19,46-60,January,Sunday,2025,0,high
+1477,Farhan,59,Male,Noida,No,Yes,Mouse,Electronics,66417,Upi,2025-07-01,46-60,July,Tuesday,2025,1,premium
+1478,Sara,48,Female,Noida,Yes,No,Mouse,Electronics,45114,Upi,2025-06-25,46-60,June,Wednesday,2025,0,high
+1479,Ali,20,Male,Gurugram,Yes,Yes,Mouse,Electronics,52317,Upi,2025-04-11,18-25,April,Friday,2025,1,premium
+1480,Aman,18,Female,Gurugram,Yes,No,Cricket Bat,Sports,58924,Net Banking,2025-02-13,18-25,February,Thursday,2025,0,premium
+1481,Neha,38,Female,Lucknow,Yes,Yes,Mouse,Electronics,40300,Card,2025-05-14,36-45,May,Wednesday,2025,1,high
+1482,Aman,21,Male,Noida,No,Yes,Mobile,Electronics,8012,Upi,2025-05-13,18-25,May,Tuesday,2025,1,low
+1483,Sara,57,Female,Lucknow,Yes,No,Football,Sports,69713,Net Banking,2025-06-24,46-60,June,Tuesday,2025,0,premium
+1484,Farhan,31,Male,Meerut,No,No,Watch,Fashion,36181,Card,2025-11-14,26-35,November,Friday,2025,0,high
+1485,Priya,45,Male,Gurugram,No,No,Face Wash,Beauty,24096,Card,2025-09-04,36-45,September,Thursday,2025,0,medium
+1486,Rahul,56,Female,Noida,No,No,Cricket Bat,Sports,47568,Cash,2025-06-11,46-60,June,Wednesday,2025,0,high
+1487,Ali,45,Female,Lucknow,Yes,Yes,Football,Sports,29953,Card,2025-03-20,36-45,March,Thursday,2025,1,medium
+1488,Neha,36,Male,Gurugram,No,Yes,Shampoo,Beauty,25294,Cash,2025-11-30,36-45,November,Sunday,2025,1,medium
+1489,Karan,44,Female,Lucknow,Yes,Yes,T-Shirt,Fashion,1944,Card,2025-03-06,36-45,March,Thursday,2025,1,low
+1490,Farhan,27,Male,Lucknow,Yes,Yes,Football,Sports,68741,Net Banking,2025-05-09,26-35,May,Friday,2025,1,premium
+1491,Ali,38,Female,Meerut,No,No,Watch,Fashion,18080,Cash,2025-08-30,36-45,August,Saturday,2025,0,medium
+1492,Zoya,54,Female,Meerut,No,Yes,Watch,Fashion,29126,Upi,2025-04-07,46-60,April,Monday,2025,1,medium
+1493,Vikas,29,Female,Gurugram,No,No,Keyboard,Electronics,27343,Upi,2025-05-14,26-35,May,Wednesday,2025,0,medium
+1494,Rohan,59,Male,Lucknow,Yes,Yes,T-Shirt,Fashion,17584,Cash,2025-03-08,46-60,March,Saturday,2025,1,medium
+1495,Priya,35,Female,Gurugram,No,No,Milk,Groceries,11068,Net Banking,2025-02-01,26-35,February,Saturday,2025,0,medium
+1496,Farhan,38,Male,Delhi,No,No,T-Shirt,Fashion,69235,Cash,2025-10-15,36-45,October,Wednesday,2025,0,premium
+1497,Anjali,20,Male,Noida,Yes,No,Face Wash,Beauty,50877,Cash,2025-07-11,18-25,July,Friday,2025,0,premium
+1498,Neha,23,Male,Meerut,No,No,Shampoo,Beauty,69474,Card,2025-01-09,18-25,January,Thursday,2025,0,premium
+1499,Sara,45,Female,Noida,Yes,No,Football,Sports,48971,Card,2025-12-15,36-45,December,Monday,2025,0,high
+1500,Karan,43,Female,Gurugram,No,No,Rice,Groceries,25568,Cash,2025-10-20,36-45,October,Monday,2025,0,medium
